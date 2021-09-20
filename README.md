@@ -1,7 +1,7 @@
 # Donut.py
 Love Donuts 🍩❤️
 
-> This is just a joke from a project.
+> Rotate Donut In Console. <3
 
 <p>
 
